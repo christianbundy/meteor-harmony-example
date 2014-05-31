@@ -1,10 +1,10 @@
 if (Meteor.isClient) {
-  Template.hello.greeting = function () {
+  Template.hello.greeting = () => {
     return "Welcome to meteor-es6-example.";
   };
 
   Template.hello.events({
-    'click input': function () {
+    'click input': () => {
       // template data, if any, is available in 'this'
       if (typeof console !== 'undefined')
         console.log("You pressed the button");
@@ -13,7 +13,7 @@ if (Meteor.isClient) {
 }
 
 if (Meteor.isServer) {
-  Meteor.startup(function () {
+  Meteor.startup(() => {
     // code to run on server at startup
   });
 }
