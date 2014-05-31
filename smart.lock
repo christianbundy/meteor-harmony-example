@@ -1,0 +1,15 @@
+{
+  "meteor": {},
+  "dependencies": {
+    "basePackages": {
+      "es6": {}
+    },
+    "packages": {
+      "es6": {
+        "git": "https://github.com/christianbundy/meteor-es6.git",
+        "tag": "v1.0.2-0.0.42",
+        "commit": "a4648e6f98c84866736d05f4fca708b5b1e17b0e"
+      }
+    }
+  }
+}
