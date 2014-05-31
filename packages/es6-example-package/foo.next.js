@@ -1,2 +1,2 @@
-class foo {};
+class foo {}
 bar = foo;
