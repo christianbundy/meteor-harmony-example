@@ -1,4 +1,4 @@
-# Meteor ES6 Example
+# [Meteor ES6](https://github.com/christianbundy/meteor-es6) Example
 
 After you've installed Meteor and Meteorite, you can create this example with:
 
