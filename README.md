@@ -1,12 +1,12 @@
-# [Meteor ES6](https://github.com/christianbundy/meteor-es6) Example
+# [Meteor Harmony](https://github.com/mquandalle/meteor-harmony) Example
 
 After you've installed Meteor and Meteorite, you can create this example with:
 
 ```
-meteor create meteor-es6-example
-cd meteor-es6-example
-mrt add es6
-sed 's/function ()/() =>/g' meteor-es6-example.js > meteor-es6-example.next.js
-rm meteor-es6-example.js
+mrt create meteor-harmony-example
+cd meteor-harmony-example
+mrt add harmony
+sed 's/function ()/() =>/g' meteor-harmony-example.js
+mv meteor-harmony-example.js meteor-harmony-example.next.js
 mrt
 ```

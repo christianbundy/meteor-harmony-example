@@ -3,7 +3,7 @@ Package.describe({
 });
 
 Package.on_use(function(api) {
-  api.use('es6');
-  api.add_files("foo.next.js");
-  api.export('bar');
+  api.use('harmony');
+  api.add_files("fibonacci.next.js");
+  api.export('Fibonacci');
 });
