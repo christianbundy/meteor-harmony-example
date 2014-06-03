@@ -3,15 +3,20 @@
   "dependencies": {
     "basePackages": {
       "harmony": {
-        "git": "https://github.com/mquandalle/meteor-harmony",
-        "branch": "master"
+        "git": "https://github.com/christianbundy/meteor-harmony",
+        "branch": "add-grasp"
       }
     },
     "packages": {
       "harmony": {
-        "git": "https://github.com/mquandalle/meteor-harmony",
+        "git": "https://github.com/christianbundy/meteor-harmony",
+        "branch": "add-grasp",
+        "commit": "bd51feb2da71077bfbf72d0ce8b4a52f167d7366"
+      },
+      "grasp": {
+        "git": "https://github.com/christianbundy/meteor-grasp",
         "branch": "master",
-        "commit": "a9137d6a26ecdbe73f3559cfcebd248ef35205ef"
+        "commit": "94bc0875d9c20db721bfae5a402c51eef5b0c0ea"
       }
     }
   }
