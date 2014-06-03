@@ -1,4 +1,4 @@
-Fibonacci = (n) => {
+export var Fibonacci = (n) => {
   var previous = 0;
   var current = 1;
 

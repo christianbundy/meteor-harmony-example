@@ -1,8 +1,8 @@
 {
   "packages": {
     "harmony": {
-      "git" : "https://github.com/mquandalle/meteor-harmony",
-      "branch" : "master"
+      "git": "https://github.com/mquandalle/meteor-harmony",
+      "branch": "master"
     }
   }
 }

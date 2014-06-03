@@ -11,7 +11,7 @@
       "harmony": {
         "git": "https://github.com/mquandalle/meteor-harmony",
         "branch": "master",
-        "commit": "a9137d6a26ecdbe73f3559cfcebd248ef35205ef"
+        "commit": "bbc6e830227ee98f6b867eecfb8d14d3d09b3605"
       }
     }
   }
